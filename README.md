@@ -1,6 +1,6 @@
 # note-taker
 
-# Unit 11 Express Homework: Note Taker
+# Express: Note Taker
 
 ## User Story
 
